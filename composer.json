@@ -1,0 +1,21 @@
+{
+  "name": "casoa/aliyun-object-storage",
+  "type": "library",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/casoa/aliyun-object-storage",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.2.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0",
+    "satooshi/php-coveralls": "~1.0"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "OSS\\": "src/OSS"
+    }
+  }
+}

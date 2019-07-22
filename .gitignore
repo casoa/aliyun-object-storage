@@ -1,0 +1,13 @@
+
+.idea
+.buildpath
+.project
+.settings
+nbproject
+
+Thumbs.db
+.DS_Store
+composer.phar
+.phpunit.result.cache
+
+vendor/
